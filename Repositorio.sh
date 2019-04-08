@@ -1,9 +1,11 @@
 # Prueba
 #Create by: iTzChar
 
-echo "Cual es tu nombre "
+setterm -foreground cyan
+echo "=CUAL ES TU NOMBRE= "
 read name
-eho "Cuantos años tienes "
+setterm -foreground cyan
+echo "°CUANTOS AÑOA TIENES°"
 read edad
 
 #Comenzando
